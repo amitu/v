@@ -9,7 +9,7 @@
 ;; Also, you can give the `site-name` of your site as header property
 
 ;; ========================= REMOVE THE COMMENT BELOW ==========================
--- ds.page: Title of the page
+-- ds.page: Testing github pages
 site-name: Title of site
 ;; ================================= END =======================================
 
